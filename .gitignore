@@ -1,0 +1,7 @@
+node_modules/
+build/
+dist/
+*.log
+.env
+.vscode/mcp.json
+.DS_Store
